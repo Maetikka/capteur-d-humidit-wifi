@@ -8,7 +8,7 @@ A venir ...
 
 # Schema montage
 
-![schema] (/home/maker/Téléchargements/Screenshot_2019-02-19 Node-RED.png)
+![schema] (shema node-red.png)
 
 
 # Blibliothèque
