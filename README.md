@@ -2,10 +2,6 @@
 
 Afficher les valeurs du capteur temperature/humidité via NODE-red avec ESP32
 
-# Video
-
-A venir ...
-
 # Schema montage
 
 ![schema](shemanodered.png)
