@@ -8,8 +8,7 @@ A venir ...
 
 # Schema montage
 
-![schema] (shema node-red.png)
-
+![schema](shema node-red .png)
 
 # Blibliothèque
 
